@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+
+boto3
+
+langchain-core
+langchain-community
+
+faiss-cpu
+python-dotenv
+pydantic
